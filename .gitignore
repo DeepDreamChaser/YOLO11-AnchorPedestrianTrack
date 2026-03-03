@@ -111,5 +111,7 @@ track_outputs/
 ultralytics/
 
 *.png
+*.csv
+*.jpg
 *.doc
 *.docx
